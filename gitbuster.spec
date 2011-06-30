@@ -12,6 +12,7 @@ Group: 		Development/Python
 Url: 		http://pypi.python.org/pypi/gitbuster/
 Source0: 	http://pypi.python.org/packages/source/g/gitbuster/gitbuster-%{version}%{beta}.tar.gz
 Requires:       python-gitpython
+Requires:       python-gfbi_core
 BuildRequires:  python-qt4-devel
 BuildArch:      noarch
 BuildRoot:      %{_tmppath}/%{name}-%{version}
