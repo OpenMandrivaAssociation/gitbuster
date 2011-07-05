@@ -1,6 +1,6 @@
 %define name    gitbuster
 %define version 2.1
-%define beta	b4
+%define beta	b5
 %define release %mkrel 0.%beta.1
 
 Name: 		%{name}
