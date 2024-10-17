@@ -9,7 +9,7 @@ Release: 	%{release}
 Summary: 	Python Qt4 frontend for git filter-branch and git cherry-pick
 License:	GPLv3
 Group: 		Development/Python
-Url: 		http://pypi.python.org/pypi/gitbuster/
+Url: 		https://pypi.python.org/pypi/gitbuster/
 Source0: 	http://pypi.python.org/packages/source/g/gitbuster/gitbuster-%{version}%{beta}.tar.gz
 Requires:       python-gitpython
 Requires:       python-gfbi_core
